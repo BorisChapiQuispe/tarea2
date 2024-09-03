@@ -1,0 +1,148 @@
+.oreja1{
+    background-color: brown;
+    position:fixed;
+    width:120px;
+    height: 120px;
+    top: 120px;
+    left: 900px;
+    border-radius: 70px;
+}
+.oreja2{
+    background-color: brown;
+    position:fixed;
+    width:120px;
+    height: 120px;
+    top: 120px;
+    left: 650px;
+    border-radius: 70px;
+}
+.cara{
+    position: fixed;
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    top: 140px;
+    left: 730px;
+    border-radius: 70px;
+}
+.cuerpo
+{
+    position: fixed;
+    background-color: brown;
+    width: 350px;
+    height: 350px;
+    top: 300px;
+    left: 658px;
+    border-radius: 720px;
+}
+.pie1
+{
+    background-color: brown;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 700px;
+    top: 600px;
+    left: 650px;
+}
+.pie2
+{
+    background-color: brown;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 700px;
+    top: 600px;
+    left: 900px;
+}
+.brazo1
+{
+    background-color: brown;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 700px;
+    top: 350px;
+    left: 580px;
+}
+.brazo2
+{
+    background-color: brown;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 700px;
+    top: 350px;
+    left: 980px;
+}
+.ojo1
+{
+    background-color: black;
+    position: absolute;
+    border-radius: 600px;
+    width: 50px;
+    height: 50px;
+    top: 40px;
+    left: 30px;
+
+}
+.ojo2
+{
+    background-color: black;
+    position: absolute;
+    border-radius: 600px;
+    width: 50px;
+    height: 50px;
+    top: 40px;
+    left: 110px;
+
+}
+.nariz{
+    background-color: black;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    top: 80px;
+    left: 80px;
+}
+.claro1
+{
+    background-color:white;
+    border-radius: 600px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+.claro2
+{
+    background-color:white;
+    border-radius: 600px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+.boca
+{
+    background-color: black;
+    position: absolute;
+    border-radius: 600px;
+    height: 30px;
+    width:80px;
+    left: 50px;
+    top: 130px;
+}
+.pelo
+{
+    background-color: aqua;
+    position: absolute;
+    border-radius: 600px;
+    width: 270px;
+    height: 270px;
+    top: 50px;
+    left: 50px;
+}
